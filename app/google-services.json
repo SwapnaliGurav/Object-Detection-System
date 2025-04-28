@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953260786774",
+    "project_id": "smartshopassistant-8141d",
+    "storage_bucket": "smartshopassistant-8141d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953260786774:android:87f29783c25e38f16da7f7",
+        "android_client_info": {
+          "package_name": "com.example.smartshopassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcb-r6qKRBHweJwmlFKKJkAKMQs3lSbGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
